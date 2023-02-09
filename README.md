@@ -1,6 +1,6 @@
 # Dog
 
-<iframe src="https://player.vimeo.com/video/291009785" width="100%" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://user-images.githubusercontent.com/76491823/217724335-4abe9d18-d504-463c-9077-8a263ec9627c.mp4  
 
 ## Instructions
 

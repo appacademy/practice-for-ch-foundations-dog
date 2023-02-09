@@ -1,6 +1,6 @@
 # Dog
 
-https://user-images.githubusercontent.com/76491823/217724335-4abe9d18-d504-463c-9077-8a263ec9627c.mp4  
+https://user-images.githubusercontent.com/76491823/217724335-4abe9d18-d504-463c-9077-8a263ec9627c.mp4
 
 ## Instructions
 
